@@ -1,3 +1,4 @@
+# 💡 ESP32-GoogleAssistant-DoorUnlocked
 - How it Works (The Architecture)
 Because Google Assistant runs in the cloud, it cannot talk directly to your board. We need like a "middleman" (a server) to transmit the message.
 
