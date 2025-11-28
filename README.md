@@ -1,5 +1,5 @@
 - How it Works (The Architecture)
-Because Google Assistant runs in the cloud, it cannot talk directly to your board. We need like a "middleman" (a server) to transper the message.
+Because Google Assistant runs in the cloud, it cannot talk directly to your board. We need like a "middleman" (a server) to transmit the message.
 
 - The Flow:
 For constant: 
